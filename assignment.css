@@ -1,0 +1,55 @@
+.fullwebsite{
+    max-width: 1024px;
+    height: auto;
+}
+.header_secetion{
+    background-color: #34495e;
+    padding-bottom: 30px;
+}
+.header_secetion h1{
+    color:#d35400;
+}
+.htag{
+    color: #3498d5;
+    font-size: 36px;
+}
+#headingp{
+    color: white;
+}
+.content{
+    background-color: #9b59b6;
+    margin: -17px 0;
+}
+.content p{
+    color: white;
+}
+.listItem{
+    font-weight: 600;
+    padding-bottom: 50px;
+    font-size: 24px;
+}
+ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+}
+ul li:first-child a{
+    color: green;
+}
+ul li:nth-child(2) a{
+    color: #efc40f;
+}
+ul li:last-child a{
+    color:#95a5a6;
+}
+.footer_section{
+    background-color:#2c3e50;
+    color: white;
+    padding-bottom: 26px!important;
+}
+.footer_section h5{
+    font-size: 18px;
+}
+
+
